@@ -1,0 +1,19 @@
+body {
+	background-color: aqua;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: darkblue;
+	
+}
+
+h1 {
+	color:red;
+	text-decoration: underline;
+}
+p {
+	color: orange;
+	text-decoration:overline;
+}
+
+img {
+	height: 450px;
+}
